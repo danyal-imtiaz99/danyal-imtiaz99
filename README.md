@@ -7,7 +7,4 @@
 - Known for efficient software design and system architecture that drives innovation and exceeds expectations.
 - I am eager to collaborate on startup projects. If you have any exciting projects in mind, please feel free to reach out at danyal.imtiaz99@gmail.com.
   
-<!---
-danyal-imtiaz99/danyal-imtiaz99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyal-imtiaz99)](https://github.com/anuraghazra/github-readme-stats)

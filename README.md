@@ -9,7 +9,8 @@
 
 ProgrammingExpert: 
 https://certificate.algoexpert.io/PE-03c2ecd2b4
+![Programming Expert](https://github.com/danyal-imtiaz99/danyal-imtiaz99/assets/59153165/1dc231be-c777-460f-ae57-db4ed716c6a2)
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyal-imtiaz99)](https://github.com/anuraghazra/github-readme-stats)
-
 

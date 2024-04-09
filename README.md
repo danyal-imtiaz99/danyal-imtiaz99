@@ -1,11 +1,10 @@
 - 👋 Hello there!
 - My name is @danyal-imtiaz99 :) 
-- Experienced Software Developer adept at crafting robust backend solutions using Python, Django, Node.js, and ASP.NET Core, alongside frontend mastery in HTML5, CSS, React.js, and Express.js.
-- Proficient in server application management, load balancing, and implementing RESTful APIs focusing on authentication and authorization.
-- Skilled in application security, middleware integration, and SQL database management.
-- Experienced in web hosting, debugging, and leveraging AWS services such as Lambda, S3, DynamoDB, Kinesis, and EC2 for scalable solutions.
-- Known for efficient software design and system architecture that drives innovation and exceeds expectations.
-- I am eager to collaborate on startup projects. If you have any exciting projects in mind, please feel free to reach out at danyal.imtiaz99@gmail.com.
+Experienced Back-End Engineer and Database Developer proficient in Python, JavaScript, and Node.js. Skilled in crafting high-performance, secure server applications with robust authentication protocols. Adept at API development, integration, and management, ensuring smooth data transmission. Expertise in data modeling, SQL optimization, and NoSQL database technologies like MongoDB and Cassandra for handling unstructured and real-time data.
+
+I have proven track record of building reliable, scalable applications, streamlining data workflows, and enhancing user experiences through intuitive design and efficient ETL pipelines. Hands-on experience with cloud services, containerization, and CI/CD tooling to deploy and manage applications at scale.
+
+Committed to upholding best code quality, security, and maintainability practices, including version control, code linters, and test-driven development methodologies. Strong problem-solving skills and adaptability in a fast-paced, agile environment.
 
 ProgrammingExpert: 
 https://certificate.algoexpert.io/PE-03c2ecd2b4

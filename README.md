@@ -1,10 +1,11 @@
-- 👋 Hello there!
-- My name is @danyal-imtiaz99 :) 
-Experienced Back-End Engineer and Database Developer proficient in Python, JavaScript, and Node.js. Skilled in crafting high-performance, secure server applications with robust authentication protocols. Adept at API development, integration, and management, ensuring smooth data transmission. Expertise in data modeling, SQL optimization, and NoSQL database technologies like MongoDB and Cassandra for handling unstructured and real-time data.
+Hello There! I'm Danyal Imtiaz. 
+A passionate Software Engineer with 5+ years of experience developing web applications,
+data warehouses, and backend systems. Skilled at writing clear, concise code that is easy to
+maintain and troubleshoot. Experienced in working with psmall and large teams across
+multiple projects and companies. Able to work independently of remote locations or in office
+environments as the company needs.
 
-I have proven track record of building reliable, scalable applications, streamlining data workflows, and enhancing user experiences through intuitive design and efficient ETL pipelines. Hands-on experience with cloud services, containerization, and CI/CD tooling to deploy and manage applications at scale.
-
-Committed to upholding best code quality, security, and maintainability practices, including version control, code linters, and test-driven development methodologies. Strong problem-solving skills and adaptability in a fast-paced, agile environment.
+I have a proven track record of building reliable, scalable applications, streamlining data workflows, and enhancing user experiences through intuitive design and efficient ETL pipelines. Hands-on experience with cloud services, containerization, and CI/CD tooling to deploy and manage applications at scale.
 
 ProgrammingExpert: 
 https://certificate.algoexpert.io/PE-03c2ecd2b4

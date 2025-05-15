@@ -1,6 +1,25 @@
 # 💫 About Me:
-Hello There! I'm Danyal Imtiaz. <br>A passionate Software Engineer with 6 years of experience developing web applications,<br>data warehouses, and backend systems. Skilled at writing clear, concise code that is easy to<br>maintain and troubleshoot. Experienced in working with small and large teams across<br>multiple projects and companies. Able to work independently of remote locations or in office<br>environments as the company needs.<br><br>I have a proven track record of building reliable, scalable applications, streamlining data workflows, <br>and enhancing user experiences through intuitive design and efficient ETL pipelines.<br>Hands-on experience with cloud services, containerization, and CI/CD tooling to deploy<br> and manage applications at scale.
+Danyal Imtiaz
+Software Engineer | Distributed Systems | Java | GCP | AWS 
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+Results-driven software engineer with expertise in large-scale distributed architectures, microservices implementation, and algorithm optimization. Specializing in fault-tolerant design patterns that achieve 99.8% uptime in production environments.
+Technical Focus:
 
+Architecture: Distributed systems, microservices, high-availability design
+Engineering: Java/C#/Python, algorithm optimization, performance tuning
+Infrastructure: Cloud-native solutions, CI/CD automation, scalable deployments
+
+Committed to delivering business-critical solutions through technical excellence, organized execution, and collaborative leadership. Consistently driving initiatives that reduce system latency, optimize resource utilization, and enhance operational resilience.
+Engineering excellence with purpose.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danyal-imtiaz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DanyalImtiaz1) 

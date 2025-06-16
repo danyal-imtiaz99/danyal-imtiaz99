@@ -11,10 +11,14 @@ Software Engineer | Distributed Systems | Java | GCP | AWS
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-🚀 Passionate software engineer dedicated to crafting robust, scalable solutions that make a real impact. I thrive on building high-performance Java applications and REST APIs that handle thousands of concurrent users while maintaining lightning-fast response times. My journey spans from optimizing data structures and algorithms to architecting distributed systems that deliver real business value.
-⚡ What drives me: The intersection of technical excellence and collaborative problem-solving. Whether I'm fine-tuning algorithms for optimal performance, designing fault-tolerant distributed architectures, or troubleshooting complex production issues, I approach every challenge with curiosity and precision. My extensive application support experience has sharpened my debugging skills and taught me to build systems that fail gracefully and recover quickly.
-⚙️ My technical playground: Java and Spring Boot power my enterprise applications, while Python handles everything from algorithmic challenges to automation scripts. I'm passionate about distributed systems design, always exploring new patterns in microservices and cloud-native architectures. My hands-on project experience ranges from optimizing core algorithms to building full-stack applications that solve real-world problems.
-🎯 Beyond the code: I genuinely enjoy mentoring teammates, diving into system design discussions, and continuously learning new technologies. Every bug is a learning opportunity, every project teaches me something new, and I'm always eager to tackle the next technical challenge.
+**🚀 Passionate software engineer dedicated to crafting robust, scalable solutions that make a real impact.** I thrive on building high-performance Java applications and REST APIs that handle thousands of concurrent users while maintaining lightning-fast response times. My journey spans from optimizing data structures and algorithms to architecting distributed systems that deliver real business value.
+
+**⚡ What drives me:** The intersection of technical excellence and collaborative problem-solving. Whether I'm fine-tuning algorithms for optimal performance, designing fault-tolerant distributed architectures, or troubleshooting complex production issues, I approach every challenge with curiosity and precision. My extensive application support experience has sharpened my debugging skills and taught me to build systems that fail gracefully and recover quickly.
+
+**⚙️ My technical playground:** `Java` and `Spring Boot` power my enterprise applications, while `Python` handles everything from algorithmic challenges to automation scripts. I'm passionate about distributed systems design, always exploring new patterns in microservices and cloud-native architectures. My hands-on project experience ranges from optimizing core algorithms to building full-stack applications that solve real-world problems.
+
+**🎯 Beyond the code:** I genuinely enjoy mentoring teammates, diving into system design discussions, and continuously learning new technologies. Every bug is a learning opportunity, every project teaches me something new, and I'm always eager to tackle the next technical challenge.
+
 Currently mastering advanced distributed systems patterns while exploring cutting-edge cloud technologies—because the best engineers never stop building and learning.
 
 ## 🎓 Certifications:

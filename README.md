@@ -1,130 +1,116 @@
-# Danyal Imtiaz
+# Danyal Imtiaz — Backend Software Engineer
 
-Backend software engineer with a focus on Java, Spring Boot, and the systems
-that run underneath enterprise applications — batch pipelines, event-driven APIs,
-microservice ecosystems, and the debugging work that comes with all of it.
+I'm a software engineer with a background in enterprise backend systems — Java, Spring Boot,
+distributed services, batch processing, and the debugging work that production environments
+make unavoidable.
 
-I've spent four years in enterprise fintech infrastructure. That experience gave me
-exposure to real production complexity. What it didn't always give me was the time
-to understand it deeply. That's what I'm doing now — building the technical
-foundation that turns experience into understanding.
+Most of my professional experience lives in fintech infrastructure: large-scale batch pipelines,
+microservice ecosystems, REST API design, event-driven systems, and legacy modernization work.
+That foundation is what I'm building on.
 
-I care about clean code, honest documentation, thorough testing, and the kind of
-engineering that holds up when someone else has to maintain it.
-
----
-
-## Current Build Direction
-
-I'm actively exploring how agentic AI can support backend engineering workflows —
-not as a replacement for fundamentals, but as a practical layer on top of them.
-
-Specifically: using LLM-backed tools to assist with documentation, test generation,
-legacy code comprehension, and service-level analysis inside Spring Boot microservice
-ecosystems. The goal is not to automate engineering. It's to reduce the time
-engineers spend on the parts of complex codebases that are slow to understand, so
-they can spend more time on the parts that actually require judgment.
-
-This work lives alongside OCP/OpenShift modernization, Spring Batch pipelines,
-and REST API design — not as a separate track, but as part of the same question:
-how do you work effectively in a large, complex backend system?
+I care about writing clean, well-tested code that other engineers can read and maintain.
+I care about understanding systems — not just operating them.
 
 ---
 
-## Core Engineering Focus
+## Engineering Direction
 
-**Languages & Frameworks**
-Java 17+, Spring Boot 3, Spring Batch, Spring Security, Spring Data JPA, Hibernate
+My technical direction is backend-focused. The systems I'm most interested in are the ones
+where reliability, data integrity, and operational correctness actually matter — financial
+processing, event-driven pipelines, service orchestration, and enterprise application modernization.
 
-**Messaging & Events**
-Apache Kafka, event-driven architecture, async processing patterns
-
-**Data**
-MySQL, Oracle, MongoDB, PostgreSQL — schema design, query tuning, data migrations
-
-**Infrastructure & CI/CD**
-Docker, OpenShift / OCP, GCP (Cloud Run, Cloud SQL), Harness, GitHub Actions
-
-**Testing**
-JUnit 5, Mockito, Testcontainers, BDD / Cucumber
-
-**Practical AI Tooling**
-Spring AI, agentic workflows, LLM-assisted documentation and test support
-
-**Build & Tools**
-Maven, Gradle, Postman, IntelliJ IDEA, Swagger / OpenAPI
+I work in the Java and Spring ecosystem: Spring Boot, Spring Batch, Spring Security, and
+Spring Data JPA, alongside the infrastructure that makes microservices production-worthy.
+I'm comfortable with REST API design, SQL and NoSQL data modeling, Kafka-based event-driven
+architecture, and the CI/CD and cloud-native deployment patterns that accompany distributed systems.
 
 ---
 
-## How I Think
+## Enterprise Systems Exposure
 
-I want to understand why a system is slow before I change it.
-I document what I learn because clarity is part of the work, not extra work.
-I write tests before I call something done — not because I'm told to, but because
-I've seen what happens when they're not there.
-I treat code review as one of the most valuable things a team can do together.
-When something breaks, I want to own the investigation, not route it away.
-I try to be the kind of engineer people can ask questions without judgment.
-I don't think being unsure about something is a weakness.
-I think pretending you're not unsure is.
+My professional background includes working inside large-scale enterprise fintech infrastructure —
+the kind of environment where batch jobs process millions of records daily, microservice
+dependencies run deep, and production incidents carry real consequences.
 
----
+That exposure shaped how I think about software engineering:
 
-## What I'm Building
+I've worked on batch modernization and large-scale data pipeline design using Spring Batch —
+handling fault tolerance, skip and retry policies, job restartability, and data integrity under
+load. I've worked inside microservice ecosystems of 10+ services, navigating service boundaries,
+inter-service contracts, and the debugging complexity that comes with them. I've worked with
+CI/CD pipelines on OpenShift and OCP, and participated in production release cycles where
+deployment decisions have downstream effects.
 
-### [`loan-application-processor`](https://github.com/danyal-imtiaz99) *(in progress)*
-Event-driven loan processing API with a Kafka-based state machine, idempotent
-write handling, and a Testcontainers-backed integration test suite.
+I've done production debugging — memory exhaustion diagnosis, query optimization, log-based
+incident investigation, and root cause analysis under pressure. I've worked on test automation
+using BDD and Cucumber to catch defects before production, and built the discipline to write
+tests that validate behavior, not just satisfy coverage requirements.
 
-`Java 17 · Spring Boot 3 · Kafka · MySQL · Docker · Testcontainers`
-
-*Demonstrates: API design, event-driven state transitions, idempotency,
-fault-tolerant processing, integration testing with real infrastructure.*
+This is enterprise application development experience. It's not reproducible in a weekend project,
+and it doesn't come from reading about it.
 
 ---
 
-### [`batch-data-pipeline`](https://github.com/danyal-imtiaz99) *(in progress)*
-Spring Batch pipeline with configurable chunk processing, skip/retry policy,
-restartable job execution, and a REST trigger with status polling.
+## Agentic AI in Engineering Workflows
 
-`Spring Batch · MySQL · Docker · JUnit 5`
+I'm actively exploring how agentic AI can support backend software engineering in practical ways —
+not as a replacement for engineering fundamentals, but as a working layer on top of them.
 
-*Demonstrates: Chunk-oriented processing, skip listeners, job restartability,
-operational concerns — the batch patterns that matter in production.*
+The specific problems I'm interested in: using LLM-backed tools to assist with documentation,
+troubleshooting, test design, legacy code comprehension, and service-level analysis inside
+complex Spring Boot microservice ecosystems. The goal is to reduce the time engineers spend
+on the parts of large codebases that are slow to understand, so they can spend more time on
+The parts that require real judgment.
 
----
-
-### [`service-doc-assistant`](https://github.com/danyal-imtiaz99) *(planned)*
-CLI tool that analyzes a Spring Boot microservice codebase and uses an LLM
-to generate structured service documentation: endpoint inventory, data flow
-summary, dependency map, and test coverage gaps.
-
-`Java · Spring AI · Spring Boot · Docker`
-
-*Demonstrates: Practical agentic AI applied to backend engineering. Not a chatbot.
-A tool that helps engineers understand large codebases faster.*
+This work sits at the intersection of backend systems engineering and practical AI tool use —
+Spring AI, RAG-based retrieval, and agentic workflow design applied to real enterprise
+application contexts. It's grounded in the same concerns as the rest of my engineering
+direction: clarity, reliability, and making complex systems easier to work with.
 
 ---
 
-### [`inventory-service`](https://github.com/danyal-imtiaz99) *(planned)*
-Clean microservice with layered architecture, domain validation, idempotency keys,
-soft delete, and a full Testcontainers integration test suite.
+## How I Work
 
-`Spring Boot 3 · PostgreSQL · Testcontainers · Springdoc OpenAPI`
+I document what I learn because clarity is part of the engineering work, not a finishing touch.
+I write tests before I call something done — not because it's required, but because I've seen
+what happens in production when they're absent.
+I try to understand why a system is slow before I change it.
+I treat code review as one of the most useful things a team can do together.
+I ask questions when I don't know something, and I try to make it easy for others to do the same.
 
-*Demonstrates: Clean API design, exception hierarchy, test discipline, and
-the kind of code quality that survives a code review.*
+I'm not the kind of engineer who optimizes for appearing to know everything.
+I'm the kind who wants to actually understand it.
 
 ---
 
-## Current Focus
+## Technical Focus
 
-- **Java internals** — JVM memory model, garbage collection, concurrency primitives
-- **Networking fundamentals** — TCP/IP, DNS, HTTP/HTTPS from first principles
-- **Data structures & algorithms** — building the reasoning precision that interviews surface
-- **System design** — distributed patterns, consistency models, practical tradeoffs
-- **Spring Boot depth** — security, batch, advanced configuration, production observability
-- **Agentic AI** — Spring AI, RAG pipelines, LLM tool use for engineering workflow support
+I'm strengthening the fundamentals that make backend systems reliable and maintainable:
+Java internals, concurrency, networking, data modeling, API design, unit and integration testing,
+and production debugging. These are the things that separate engineers who understand distributed
+systems from those who simply use them.
+
+Alongside that foundation, I'm going deeper into Spring Boot, Spring Batch, Kafka-based
+event-driven architecture, microservices design, and deployment-aware engineering for
+enterprise environments on OpenShift and GCP. Not as isolated topics — as interconnected
+parts of the same backend engineering picture.
+
+I'm also developing working competence in agentic AI for software engineering: how LLM-based
+tools can assist with documentation generation, system analysis, test design, legacy code
+comprehension, and modernization workflows inside real Spring Boot microservice systems.
+The standard I hold it to is the same one I apply to everything else: does it actually help,
+and do I understand why?
+
+---
+
+## Learning Notes & Documentation
+
+I document what I work through — technical concepts, system patterns, debugging approaches,
+engineering tradeoffs, and lessons from real systems. The goal is not to publish content.
+The goal is to build understanding that sticks, and leave something behind that's useful
+to a future teammate or a future version of myself.
+
+Clean documentation is part of clean engineering. I treat it that way.
 
 ---
 

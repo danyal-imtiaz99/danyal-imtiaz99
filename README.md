@@ -1,51 +1,133 @@
-# 💫 About Me:
-Danyal Imtiaz
-Software Engineer | Distributed Systems | Java | GCP | AWS 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-**🚀 Passionate software engineer dedicated to crafting robust, scalable solutions that make a real impact.** I thrive on building high-performance Java applications and REST APIs that handle thousands of concurrent users while maintaining lightning-fast response times. My journey spans from optimizing data structures and algorithms to architecting distributed systems that deliver real business value.
+# Danyal Imtiaz
 
-**⚡ What drives me:** The intersection of technical excellence and collaborative problem-solving. Whether I'm fine-tuning algorithms for optimal performance, designing fault-tolerant distributed architectures, or troubleshooting complex production issues, I approach every challenge with curiosity and precision. My extensive application support experience has sharpened my debugging skills and taught me to build systems that fail gracefully and recover quickly.
+Backend software engineer with a focus on Java, Spring Boot, and the systems
+that run underneath enterprise applications — batch pipelines, event-driven APIs,
+microservice ecosystems, and the debugging work that comes with all of it.
 
-**⚙️ My technical playground:** `Java` and `Spring Boot` power my enterprise applications, while `Python` handles everything from algorithmic challenges to automation scripts. I'm passionate about distributed systems design, always exploring new patterns in microservices and cloud-native architectures. My hands-on project experience ranges from optimizing core algorithms to building full-stack applications that solve real-world problems.
+I've spent four years in enterprise fintech infrastructure. That experience gave me
+exposure to real production complexity. What it didn't always give me was the time
+to understand it deeply. That's what I'm doing now — building the technical
+foundation that turns experience into understanding.
 
-**🎯 Beyond the code:** I genuinely enjoy mentoring teammates, diving into system design discussions, and continuously learning new technologies. Every bug is a learning opportunity, every project teaches me something new, and I'm always eager to tackle the next technical challenge.
-
-Currently mastering advanced distributed systems patterns while exploring cutting-edge cloud technologies—because the best engineers never stop building and learning.
-
-## 🎓 Certifications:
-[![HyperSkill Java](https://img.shields.io/badge/HyperSkill-Introduction%20to%20Java-4285F4?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/certificates/79afe4df-7a6a-4a03-aa09-e0a3990643e3.pdf)
-[![Spring Framework](https://img.shields.io/badge/Spring%20Framework-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://amigoscode.com/certificates/d41509b4-18ce-4bfb-af1c-3b827110da1e)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Certified-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://amigoscode.com/certificates/409f53d6-7700-474d-a556-681fd4b04880)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danyal-imtiaz/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DanyalImtiaz1) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danyal-imtiaz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danyal-imtiaz99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-imtiaz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danyal-imtiaz99&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-![Java Certified](https://img.shields.io/badge/Java%20Certified-HyperSkill-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danyal-imtiaz99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I care about clean code, honest documentation, thorough testing, and the kind of
+engineering that holds up when someone else has to maintain it.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danyal-imtiaz99&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Current Build Direction
+
+I'm actively exploring how agentic AI can support backend engineering workflows —
+not as a replacement for fundamentals, but as a practical layer on top of them.
+
+Specifically: using LLM-backed tools to assist with documentation, test generation,
+legacy code comprehension, and service-level analysis inside Spring Boot microservice
+ecosystems. The goal is not to automate engineering. It's to reduce the time
+engineers spend on the parts of complex codebases that are slow to understand, so
+they can spend more time on the parts that actually require judgment.
+
+This work lives alongside OCP/OpenShift modernization, Spring Batch pipelines,
+and REST API design — not as a separate track, but as part of the same question:
+how do you work effectively in a large, complex backend system?
+
+---
+
+## Core Engineering Focus
+
+**Languages & Frameworks**
+Java 17+, Spring Boot 3, Spring Batch, Spring Security, Spring Data JPA, Hibernate
+
+**Messaging & Events**
+Apache Kafka, event-driven architecture, async processing patterns
+
+**Data**
+MySQL, Oracle, MongoDB, PostgreSQL — schema design, query tuning, data migrations
+
+**Infrastructure & CI/CD**
+Docker, OpenShift / OCP, GCP (Cloud Run, Cloud SQL), Harness, GitHub Actions
+
+**Testing**
+JUnit 5, Mockito, Testcontainers, BDD / Cucumber
+
+**Practical AI Tooling**
+Spring AI, agentic workflows, LLM-assisted documentation and test support
+
+**Build & Tools**
+Maven, Gradle, Postman, IntelliJ IDEA, Swagger / OpenAPI
+
+---
+
+## How I Think
+
+I want to understand why a system is slow before I change it.
+I document what I learn because clarity is part of the work, not extra work.
+I write tests before I call something done — not because I'm told to, but because
+I've seen what happens when they're not there.
+I treat code review as one of the most valuable things a team can do together.
+When something breaks, I want to own the investigation, not route it away.
+I try to be the kind of engineer people can ask questions without judgment.
+I don't think being unsure about something is a weakness.
+I think pretending you're not unsure is.
+
+---
+
+## What I'm Building
+
+### [`loan-application-processor`](https://github.com/danyal-imtiaz99) *(in progress)*
+Event-driven loan processing API with a Kafka-based state machine, idempotent
+write handling, and a Testcontainers-backed integration test suite.
+
+`Java 17 · Spring Boot 3 · Kafka · MySQL · Docker · Testcontainers`
+
+*Demonstrates: API design, event-driven state transitions, idempotency,
+fault-tolerant processing, integration testing with real infrastructure.*
+
+---
+
+### [`batch-data-pipeline`](https://github.com/danyal-imtiaz99) *(in progress)*
+Spring Batch pipeline with configurable chunk processing, skip/retry policy,
+restartable job execution, and a REST trigger with status polling.
+
+`Spring Batch · MySQL · Docker · JUnit 5`
+
+*Demonstrates: Chunk-oriented processing, skip listeners, job restartability,
+operational concerns — the batch patterns that matter in production.*
+
+---
+
+### [`service-doc-assistant`](https://github.com/danyal-imtiaz99) *(planned)*
+CLI tool that analyzes a Spring Boot microservice codebase and uses an LLM
+to generate structured service documentation: endpoint inventory, data flow
+summary, dependency map, and test coverage gaps.
+
+`Java · Spring AI · Spring Boot · Docker`
+
+*Demonstrates: Practical agentic AI applied to backend engineering. Not a chatbot.
+A tool that helps engineers understand large codebases faster.*
+
+---
+
+### [`inventory-service`](https://github.com/danyal-imtiaz99) *(planned)*
+Clean microservice with layered architecture, domain validation, idempotency keys,
+soft delete, and a full Testcontainers integration test suite.
+
+`Spring Boot 3 · PostgreSQL · Testcontainers · Springdoc OpenAPI`
+
+*Demonstrates: Clean API design, exception hierarchy, test discipline, and
+the kind of code quality that survives a code review.*
+
+---
+
+## Current Focus
+
+- **Java internals** — JVM memory model, garbage collection, concurrency primitives
+- **Networking fundamentals** — TCP/IP, DNS, HTTP/HTTPS from first principles
+- **Data structures & algorithms** — building the reasoning precision that interviews surface
+- **System design** — distributed patterns, consistency models, practical tradeoffs
+- **Spring Boot depth** — security, batch, advanced configuration, production observability
+- **Agentic AI** — Spring AI, RAG pipelines, LLM tool use for engineering workflow support
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/danyal-imtiaz/) · danyal.imtiaz99@gmail.com
